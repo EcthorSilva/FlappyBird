@@ -7,7 +7,7 @@ _FlappyBird é um classico jogo mobile desenvolvido pelo programador vietnamita 
 - Adicionado Hitbox no passaro e no cano  
 - será retornado uma mensagem no console caso o passaro acerte o cano, o céu ou o chão.  
 
-## Etc
+## Ideias para o projeto
 
 Será necessario adicionar algumas outras coisas para que o jogo fique 100% ao original. Segue a lista com possiveis atualizações futuras: 
 
