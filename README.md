@@ -18,3 +18,7 @@ Será necessario adicionar algumas outras coisas para que o jogo fique 100% ao o
 - Menu  
 
 Os sprites e todas as cordenadas estão na raiz do projeto.  
+
+## Screenshot 
+
+![flappybird](https://user-images.githubusercontent.com/13456785/117419286-c5df5a80-aef2-11eb-9668-493cd1d8e90f.png)
